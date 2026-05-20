@@ -1,0 +1,14 @@
+.main {
+    background-color: black;
+    color: white;
+}
+
+.opposite {
+    background-color: yellow;
+}
+
+.main,
+.opposite {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
